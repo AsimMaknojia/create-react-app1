@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React, { Components } from 'react';
 import './Sectionone.css';
 
-class Sectionone extends Component {
+class Sectionone extends Components {
     render(){
         return(
 <div className='second'>
