@@ -11,6 +11,7 @@
     line-height: 74px;
     color:#fff;
     padding-right:600px;
+    text-align: left;
 }
 .Banner h2 {
     background-color: rgb(52, 43, 126);
@@ -29,4 +30,5 @@
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 4px;
+    text-align: left;
 }

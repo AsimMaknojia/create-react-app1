@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React, { Components } from 'react';
 import './Banner.css';
-class Banner extends Component {
+class Banner extends Components {
     render(){
         return(
 <div className='container-fluid p-0'>

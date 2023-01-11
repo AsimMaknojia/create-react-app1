@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React, { Components } from 'react';
 import { MenuItems } from './MenuItems';
 import './Navbar.css';
-class Navbar extends Component {
+class Navbar extends Components {
     render(){
         return(
 <div className=''>
