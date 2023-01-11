@@ -1,9 +1,10 @@
-// import React, { Components } from 'react';
+import React, { Components } from 'react';
 import './Homess.css';
 import Sectionone from '../Sectionone/Sectionone';
 import Banner from '../Banner/Banner';
 
-function Homess(){
+class Homess extends Components {
+    render(){
         return(
             <div className='second'>
                 <div className='container'>
@@ -15,5 +16,7 @@ function Homess(){
             </div>
         )
     }
+    
+}
 
 export default Homess
