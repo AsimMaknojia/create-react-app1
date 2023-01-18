@@ -9,7 +9,7 @@ class Sectionone extends Components {
     <div className='row'>
         <div className='col-md-6 firstsection text-center'>
              <img src={require('.//img/Suppliers-Products-4.png')} alt="" width="100%"/>
-            <button>Test Now</button>
+            <button>Test Nows</button>
         </div>
         <div className='col-md-6 Secondsection'>
             <img src={require('.//img/app.png')} alt=""/>
